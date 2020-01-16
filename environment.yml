@@ -44,6 +44,6 @@ dependencies:
   - jupyter_contrib_nbextensions
   - nbclean
   # Autograding
-  - matplotcheck
-  - nbgrader=0.5.6
+  - matplotcheck>=0.1
+  - nbgrader
 
